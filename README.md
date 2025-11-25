@@ -7,7 +7,7 @@ TMDB (The Movie Database) APIを利用し、最新の映画情報や詳細デー
 実際の動作はこちらからご確認いただけます。
 **[https://my-movie-app-5x9i.onrender.com]**
 
-##実際の画面
+## 📷 実際の画面
 ![Image](https://github.com/user-attachments/assets/5ace8929-2c1c-4c0f-94a2-ecd1b9ae6137)
 
 ## ✨ 主な機能
